@@ -1,0 +1,5 @@
+.vscode/**
+.env
+**/generated/src.zip
+.terraform/
+__pycache__
